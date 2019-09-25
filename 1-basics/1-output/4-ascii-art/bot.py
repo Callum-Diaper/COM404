@@ -1,0 +1,16 @@
+# Display a box
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+
+print("     ________       ")
+print("    /________\ ")
+print("   /| ^   ^  |\ ")
+print("   ||________||")
+print("    \________/")
+print("    (  _____  )")
+print("    /|'      |\ ")
+print("   / |       | \ ")
+print("  /  |       |  \ ")
+print("      \_____/")
